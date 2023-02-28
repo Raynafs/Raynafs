@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel
 - 👀 I’m interested in Android development
-- 🌱 I’m currently building backend of weather app
+- 🌱 I’m currently building the taraji app
 - 💞️ I’m looking to collaborate on forming UI
 - 📫 How to reach me raynafs90@gmail.com
 
